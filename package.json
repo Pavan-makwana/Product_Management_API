@@ -1,0 +1,29 @@
+{
+  "name": "product_management_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "keywords": [],
+  "author": "Pavan",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@fastify/rate-limit": "^10.3.0",
+    "@prisma/adapter-pg": "^7.4.1",
+    "@prisma/client": "^7.4.1",
+    "bcryptjs": "^3.0.3",
+    "fastify": "^5.7.4",
+    "fastify-plugin": "^5.1.0",
+    "jsonwebtoken": "^9.0.3",
+    "pg": "^8.19.0",
+    "redis": "^5.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14",
+    "prisma": "^7.4.1"
+  }
+}
