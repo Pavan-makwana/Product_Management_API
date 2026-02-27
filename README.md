@@ -1,12 +1,12 @@
 #  Product Management API
 
 A high-performance, production-ready RESTful API for managing product
-inventory.\
+inventory.
 Built with **Fastify** and **Prisma**, this backend is engineered for
 speed, scalability, and enterprise-level reliability.
 
-> Optimized for throughput\
->  Secured with JWT authentication\
+> Optimized for throughput
+>  Secured with JWT authentication
 >  Designed with caching and rate limiting
 
 **Maintained by:** QuantaTechLabs -- Backend Core
@@ -30,9 +30,9 @@ speed, scalability, and enterprise-level reliability.
 
 ### Full CRUD Operations
 
--   Create products\
--   Retrieve single or multiple products\
--   Update product details\
+-   Create products
+-   Retrieve single or multiple products
+-   Update product details
 -   Delete products safely
 
 ------------------------------------------------------------------------
